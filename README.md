@@ -30,9 +30,9 @@ Our instructions were as follows:
   * Run npm install to install all dependencies.
   * Run npm start to start the application in your browser.
   * Once you do this and the browser loads, you should see the form.
-      **Start typing in an email, the alert "Username should be an email" will remain until you type in the "@..." part of the email.
-      **Empty fields will alert "Field Required".
-      **Once both are completed, hit submit, and a notification will pop up stating "Login Successful".
+      ** Start typing in an email, the alert "Username should be an email" will remain until you type in the "@..." part of the email.
+      ** Empty fields will alert "Field Required".
+      ** Once both are completed, hit submit, and a notification will pop up stating "Login Successful".
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
