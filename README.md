@@ -26,6 +26,8 @@ While learning to work with React and Formik, we were tasked with creating a for
 
 Our instructions were as follows: 
 * Download the project starter files (I have uploaded these files to the repository).
+  * public/index.html (this is where your React app will be loaded inside the root element)
+  * src/App.js (This is where the main code is for the form.)
 * Open a terminal window on your computer and run the command cd path/to/project/root (modifying it to the actual source of the files).
   * Run npm install to install all dependencies.
   * Run npm start to start the application in your browser.
